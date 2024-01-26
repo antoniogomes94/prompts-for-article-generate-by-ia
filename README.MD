@@ -42,8 +42,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 📄 Prompts e ferramentas
 
-ChatGPT
-Lexica.art
+- ChatGPT
+- Lexica.art
 
 ## ✨ Features
 
@@ -53,11 +53,11 @@ Lexica.art
 ## 📚 Materiais
 
 - prompts utilizados
-'''
+```
 Crie 10 headlines para nomes de artigos sobre o assunto Enum em Java  
-'''
+```
 
-'''
+```
 Comporte-se como um escritor de artigos tech backend e escreva o artigo com o titulo "Além do Básico: Explorando Recursos Avançados com Enums em Java" atendendo as regras abaixo.
 
 {REGRAS}
@@ -72,7 +72,7 @@ Comporte-se como um escritor de artigos tech backend e escreva o artigo com o ti
 - Conclusão
 - Faça um call to action pra as minhas redes sociais
 - Coloque 3 hashtags que façam sentido
-'''
+```
 
 ## 🛠️ Instruções de execução
 
